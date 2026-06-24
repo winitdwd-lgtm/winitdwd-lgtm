@@ -205,6 +205,16 @@ My stack is deep: **Java/Spring Boot** on the backend, **React/Node.js** on the 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=winitdwd-lgtm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1f6feb&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
+<br/><br/>
+
+### 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winitdwd-lgtm/winitdwd-lgtm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winitdwd-lgtm/winitdwd-lgtm/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/winitdwd-lgtm/winitdwd-lgtm/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
