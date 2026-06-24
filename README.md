@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=230&section=header&text=Vineet%20Dharwad&fontSize=46&fontColor=e6edf3&fontAlignY=32&desc=Building%20Intelligent%20Systems%20That%20Think%2C%20Heal%2C%20and%20Defend&descSize=16&descAlignY=54&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Full-Stack+Engineer+%7C+GenAI+Systems+Builder;CS+Undergrad+%E2%80%A2+Graduating+July+2028+%E2%80%A2+Open+to+SWE+Roles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full-Stack+Engineer+%7C+GenAI+Systems+Builder;CS+Undergrad+%E2%80%A2+Graduating+July+2028+%E2%80%A2+Open+to+SWE+Roles" alt="Typing SVG" /></a>
 
 <br/>
 
