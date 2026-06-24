@@ -207,8 +207,6 @@ My stack is deep: **Java/Spring Boot** on the backend, **React/Node.js** on the 
 
 <br/><br/>
 
-### 🐍 Watch My Contributions Get Eaten
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winitdwd-lgtm/winitdwd-lgtm/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winitdwd-lgtm/winitdwd-lgtm/output/github-contribution-grid-snake.svg" />
