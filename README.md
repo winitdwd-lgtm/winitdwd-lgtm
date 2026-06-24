@@ -233,9 +233,6 @@ Global Academy of Technology, Bengaluru, India
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=winitdwd-lgtm&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/winitdwd-lgtm?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/winitdwd-lgtm)
-[![GitHub stars](https://img.shields.io/github/stars/winitdwd-lgtm?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/winitdwd-lgtm)
 
 <br/>
 
